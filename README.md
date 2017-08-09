@@ -1,4 +1,4 @@
-# 微信大转般抽奖turntable3
+# 微信大转盘抽奖turntable3
 效果如下：
 ![](images/img.gif)
 
